@@ -1,2 +1,3 @@
 # stash
 Cash
+Stocks bonds
